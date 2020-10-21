@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img src="./public/images/logo.svg" />
 </h1>
 
 <p align="center">
@@ -10,15 +10,13 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/605051094565126174/768262079978536980/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
